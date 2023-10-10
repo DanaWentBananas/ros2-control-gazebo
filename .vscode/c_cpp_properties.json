@@ -1,0 +1,56 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/danana/info_ws/install/interfaces_info/include/**",
+        "/home/danana/alex_ws/install/turtlebot3_gazebo/include/**",
+        "/home/danana/alex_ws/install/turtlebot3_fake_node/include/**",
+        "/home/danana/alex_ws/install/nav2_smoother/include/**",
+        "/home/danana/alex_ws/install/nav2_controller/include/**",
+        "/home/danana/alex_ws/install/dwb_plugins/include/**",
+        "/home/danana/alex_ws/install/dwb_critics/include/**",
+        "/home/danana/alex_ws/install/dwb_core/include/**",
+        "/home/danana/alex_ws/install/nav_2d_utils/include/**",
+        "/home/danana/alex_ws/install/dwb_msgs/include/**",
+        "/home/danana/alex_ws/install/nav_2d_msgs/include/**",
+        "/home/danana/alex_ws/install/nav2_waypoint_follower/include/**",
+        "/home/danana/alex_ws/install/nav2_theta_star_planner/include/**",
+        "/home/danana/alex_ws/install/nav2_smac_planner/include/**",
+        "/home/danana/alex_ws/install/nav2_rotation_shim_controller/include/**",
+        "/home/danana/alex_ws/install/nav2_regulated_pure_pursuit_controller/include/**",
+        "/home/danana/alex_ws/install/nav2_planner/include/**",
+        "/home/danana/alex_ws/install/nav2_navfn_planner/include/**",
+        "/home/danana/alex_ws/install/nav2_mppi_controller/include/**",
+        "/home/danana/alex_ws/install/nav2_bt_navigator/include/**",
+        "/home/danana/alex_ws/install/nav2_behaviors/include/**",
+        "/home/danana/alex_ws/install/nav2_core/include/**",
+        "/home/danana/alex_ws/install/nav2_collision_monitor/include/**",
+        "/home/danana/alex_ws/install/explore_lite/include/**",
+        "/home/danana/alex_ws/install/costmap_queue/include/**",
+        "/home/danana/alex_ws/install/nav2_costmap_2d/include/**",
+        "/home/danana/alex_ws/install/nav2_voxel_grid/include/**",
+        "/home/danana/alex_ws/install/nav2_velocity_smoother/include/**",
+        "/home/danana/alex_ws/install/nav2_rviz_plugins/include/**",
+        "/home/danana/alex_ws/install/nav2_map_server/include/**",
+        "/home/danana/alex_ws/install/nav2_lifecycle_manager/include/**",
+        "/home/danana/alex_ws/install/nav2_behavior_tree/include/**",
+        "/home/danana/alex_ws/install/nav2_amcl/include/**",
+        "/home/danana/alex_ws/install/nav2_util/include/**",
+        "/home/danana/alex_ws/install/nav2_msgs/include/**",
+        "/home/danana/alex_ws/install/multirobot_map_merge/include/**",
+        "/opt/ros/humble/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
